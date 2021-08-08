@@ -1,10 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 # Sport_news
-
 ##Lider:Juan Paiba
-
 ##Noticieros:Santiago Rojas, David Camargo, Paula Hurtado, Sara Leal, David Perez
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -77,3 +76,5 @@ Diana Martínez, asesora de despacho para la reactivación económica, explicó 
 =======
 >>>>>>> Stashed changes
 >>>>>>> main
+=======
+>>>>>>> parent of 8c06fc2... Noticia 3
