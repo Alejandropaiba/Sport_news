@@ -69,12 +69,3 @@ Diana Martínez, asesora de despacho para la reactivación económica, explicó 
  debido a una lesión de rodilla. Con su retiro de Cincinatti, la leyenda suiza deja dudas sobre su cierre de año y su participación en un 
  Grand Slam. El último título de Grand Slam que conquistó el exnúmero uno del mundo fue el Abierto de Australia de 2018. 
  El torneo de Cincinatti se inaugura el 16 de agosto, dos semanas antes del inicio del US Open en Nueva York, el último torneo del Grand Slam del año.
- 
-<<<<<<< HEAD
->>>>>>> Stashed changes
->>>>>>> main
-=======
->>>>>>> Stashed changes
->>>>>>> main
-=======
->>>>>>> parent of 8c06fc2... Noticia 3
