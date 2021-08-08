@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Sport_news
 
 ##Lider:Juan Paiba
@@ -17,3 +18,17 @@
 Lionel Messi se despide del Barcelona.
 Dada la situación económica del F.C. Barcelona, Lionel Messi no podrá ampliar su contrato con el club de su vida, ya que la liga española tiene cierto límite salarial y el Barcelona no está cumpliendo con este requisito. La noticia sorprendió a todo el mundo, pero ahora Messi tendrá que mirar hacia adelante. Según Fabrizio Romano (reportero europeo de confianza), Messi y el PSG, conjunto francés, ya tienen un acuerdo y lo más probable es que sea presentado esta semana.
 >>>>>>> Noticia2
+=======
+# Sport_news
+
+##Creador del Noticiero: Alejandro Paiba
+
+##Participantes de el noticiero:David Camargo,Santiago Rojas,Sara Leal,Paula Hurtado,David Perez
+###Noticia 3
+####Federer pone en duda su participación en el US Open, su futuro es incierto
+####El suizo, que cumple 40 años el domingo, llegó a los cuartos de final de Wimbledon pero quedó fuera de los Juegos Olímpicos de Tokio
+ debido a una lesión de rodilla. Con su retiro de Cincinatti, la leyenda suiza deja dudas sobre su cierre de año y su participación en un 
+ Grand Slam. El último título de Grand Slam que conquistó el exnúmero uno del mundo fue el Abierto de Australia de 2018. 
+ El torneo de Cincinatti se inaugura el 16 de agosto, dos semanas antes del inicio del US Open en Nueva York, el último torneo del Grand Slam del año.
+ 
+>>>>>>> Stashed changes
