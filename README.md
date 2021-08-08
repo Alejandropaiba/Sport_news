@@ -17,7 +17,8 @@ Sousa
 FUENTE DE LA IMAGEN,GETTY IMAGES
 El reinado de Sousa en la categoría mediana constituye la segunda presea dorada de Brasil sobre el ring en Juegos Olímpicos tras el triunfo de Robson Conceicao hace cinco años.
 
-En la categoría finalizaron con bronce el ruso Bakshi y el filipino Eumir Marcial, quienes perdieron en semifinales contra el campeón Sousa y el medalla de plata Khyzhniak, respectivamente.
+
+
 =======
 Lionel Messi se despide del Barcelona.
 Dada la situación económica del F.C. Barcelona, Lionel Messi no podrá ampliar su contrato con el club de su vida, ya que la liga española tiene cierto límite salarial y el Barcelona no está cumpliendo con este requisito. La noticia sorprendió a todo el mundo, pero ahora Messi tendrá que mirar hacia adelante. Según Fabrizio Romano (reportero europeo de confianza), Messi y el PSG, conjunto francés, ya tienen un acuerdo y lo más probable es que sea presentado esta semana.
