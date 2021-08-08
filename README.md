@@ -3,3 +3,17 @@
 ##Lider:Juan Paiba
 
 ##Noticieros:Santiago Rojas, David Camargo, Paula Hurtado, Sara Leal, David Perez
+
+###Noticia 1
+
+####Titulo::Herbert Sousa de Brasil se lleva el oro en boxeo de peso mediano 
+
+####Desarrollo de la noticia:El brasileño propinó un fuera de combate en el tercer round al ucraniano Oleksandr Khyzhniak.
+
+Sousa, de 23 años, lució su talento sobre Khyzhniak para aportar el sexto título de Brasil en Tokio colocándose en la cima de Latinoamérica.
+
+Sousa
+FUENTE DE LA IMAGEN,GETTY IMAGES
+El reinado de Sousa en la categoría mediana constituye la segunda presea dorada de Brasil sobre el ring en Juegos Olímpicos tras el triunfo de Robson Conceicao hace cinco años.
+
+En la categoría finalizaron con bronce el ruso Bakshi y el filipino Eumir Marcial, quienes perdieron en semifinales contra el campeón Sousa y el medalla de plata Khyzhniak, respectivamente.
